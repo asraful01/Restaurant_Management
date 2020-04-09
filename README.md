@@ -1,5 +1,5 @@
 # Restaurant_Management
-his is mainly done in HTML,CSS, PHP and some javascript 
+this is mainly done in HTML,CSS, PHP and some javascript 
 Customer:
 
 view list of resturants
